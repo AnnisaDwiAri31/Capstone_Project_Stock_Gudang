@@ -39,7 +39,8 @@ def delete_data():
 
 
 # Main Menu
-while True:
+
+* while True:
     try:
         Home = int(input('''\nSELAMAT DATANG DI GUDANG SEPATU JAYA SELALU
 --------------------------------------------
